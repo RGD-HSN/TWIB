@@ -23,6 +23,7 @@ It demonstrates the principles of **stability, control systems, and dynamic bala
 2. The controller (PID) calculates the correction needed to keep the robot upright.
 3. The Arduino sends control signals to the motors to move in the direction that restores balance.
 4. The system continuously updates this feedback loop to maintain stability.
+<img width="498" height="798" alt="Screenshot 2025-08-16 at 12 47 35 AM" src="https://github.com/user-attachments/assets/27841256-5c37-4380-a85c-c81a455eec2c" />
 
 ## Author
 **Raghad Hasan**  
