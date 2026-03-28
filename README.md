@@ -4,6 +4,8 @@
 The **TWIB** project is a self-balancing robot designed to maintain its upright position using feedback control.  
 It demonstrates the principles of **stability, control systems, and dynamic balancing**.
 
+https://youtube.com/shorts/d546YHlz2ZA?feature=share
+
 ## ⚙️ Features
 - Balances itself using feedback from sensors
 - Moves forward and backward to maintain equilibrium
